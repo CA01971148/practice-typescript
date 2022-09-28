@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@types/node": "^18.7.23",
+    "typescript": "^4.8.4"
+  },
+  "name": "practice-typescript",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CA01971148/practice-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CA01971148/practice-typescript/issues"
+  },
+  "homepage": "https://github.com/CA01971148/practice-typescript#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
